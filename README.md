@@ -5,7 +5,7 @@
 
 ## 📌 Sumário
  1. [Descrição do problema](#descrição)
- 2. [Personas](#-personas)
+ 2. [Personas](#personas)
  3. [User Stories](#-user-stories)
  4. [Requisitos](#-requisitos)
  5. [Protótipos](#-protótipos)
@@ -15,7 +15,7 @@
 
 ---
 
-## 📄Descrição
+# 📄Descrição
 
 ### Contexto:
 Como forma de edificar cada vez mais a imagem da UFCA (Universidade Federal do Cariri), bem como de seus alunos, no mercado, o seguinte projeto se propõe a desenvolver uma **plataforma de empregabilidade** específica para o contexto da universidade. Permitindo uma maior **integração entre alunos e empresas**, onde ambos poderão exibir seus perfis profissionais, e onde as empresas poderão, além de também divulgar os próprios perfis, divulgar possíveis vagas a serem preenchidas por estes futuros profissionais.
@@ -32,4 +32,143 @@ Contexto da Universidade Federal do Cariri - UFCA.
 ### Impacto esperado da solução:
 Alavancar a imagem da UFCA no mercado, ao mesmo tempo em que ampara o aumento das possibilidades de emprego para alunos da instituição. Através de uma plataforma que conecta empresas com vagas abertas a futuros profissionais engajados.
 
+---
+# 👥Personas
+
+
+## 💼 Contratante 
+
+<p align="center">
+  <img src="Personas/persona_contratante.png" width="500" alt="Foto da persona Aluno Desempregado">
+</p>
+
+## Informações da Persona
+
+**Nome:**  
+> Ricardo Martins
+
+**Idade:**  
+> 38 anos
+
+**Ocupação/Profissão:**  
+> Gerente de Recursos Humanos / Recrutamento
+
+## 🎯 Objetivos
+- Encontrar candidatos qualificados para as vagas disponíveis.
+- Reduzir o tempo gasto na triagem de currículos.
+Encontrar profissionais compatíveis com os requisitos das vagas.
+- Divulgar oportunidades para um público maior e mais adequado.
+- Facilitar o processo de seleção e contratação.
+- Ter acesso a informações organizadas sobre os candidatos.
+- Melhorar a qualidade das contratações realizadas pela empresa
+
+## ⚠️ Dificuldades
+- Grande quantidade de currículos incompatíveis com as vagas.
+- Informações sobre candidatos espalhadas em diferentes plataformas.
+- Dificuldade para encontrar profissionais com o perfil adequado.
+- Tempo elevado gasto analisando candidatos.
+- Dificuldade para acompanhar diferentes processos seletivos simultaneamente.
+- Pouca padronização das informações recebidas dos candidatos.
+- Dependência de diferentes canais para divulgar e acompanhar oportunidades.
+
+
+## 💡 Necessidades
+- ### Encontrar candidatos
+
+Receber candidatos que correspondam aos requisitos definidos para cada vaga.
+
+- ### Filtrar candidatos
+
+Possuir mecanismos que facilitem a identificação dos profissionais mais compatíveis.
+
+- ### Gerenciar vagas
+
+Criar, editar, divulgar e acompanhar as oportunidades disponíveis.
+
+- ### Acompanhar candidatos
+
+Visualizar o andamento dos candidatos durante as diferentes etapas do processo seletivo.
+
+## 💻 Familiaridade com Tecnologia
+> Alta
+
+Ricardo utiliza computadores, smartphones, sistemas corporativos, plataformas de recrutamento, e-mail e redes sociais diariamente.
+
+Possui facilidade para aprender novas ferramentas digitais e valoriza soluções que sejam simples, rápidas e intuitivas.
+
+---
+
+## 🎓 Persona 1 — Aluno Desempregado
+
+<p align="center">
+  <img src=".png" width="220" alt="Foto da persona Contratante">
+</p>
+
+### Informações da Persona
+
+**Nome fictício:**  
+> [Nome da persona]
+
+**Idade:**  
+> [Idade]
+
+**Ocupação/Profissão:**  
+> [Ocupação ou profissão da persona]
+
+### 🎯 Objetivos
+- [Objetivo 1]
+- [Objetivo 2]
+- [Objetivo 3]
+
+### ⚠️ Dificuldades
+- [Dificuldade 1]
+- [Dificuldade 2]
+- [Dificuldade 3]
+
+### 💡 Necessidades
+- [Necessidade 1]
+- [Necessidade 2]
+- [Necessidade 3]
+
+### 💻 Familiaridade com Tecnologia
+> [Descreva o nível de familiaridade da persona com tecnologia.]
+
+---
+
+## 🚀 Persona 3 — Aluno Empregado que Deseja Melhorar a Carreira
+
+<p align="center">
+  <img src=".png" width="220" alt="Foto da persona Aluno Empregado">
+</p>
+
+### Informações da Persona
+
+**Nome fictício:**  
+> [Nome da persona]
+
+**Idade:**  
+> [Idade]
+
+**Ocupação/Profissão:**  
+> [Ocupação ou profissão da persona]
+
+### 🎯 Objetivos
+- [Objetivo 1]
+- [Objetivo 2]
+- [Objetivo 3]
+
+### ⚠️ Dificuldades
+- [Dificuldade 1]
+- [Dificuldade 2]
+- [Dificuldade 3]
+
+### 💡 Necessidades
+- [Necessidade 1]
+- [Necessidade 2]
+- [Necessidade 3]
+
+### 💻 Familiaridade com Tecnologia
+> [Descreva o nível de familiaridade da persona com tecnologia.]
+
+---
 ---
