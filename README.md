@@ -171,4 +171,14 @@ Possui facilidade para aprender novas ferramentas digitais e valoriza soluções
 > [Descreva o nível de familiaridade da persona com tecnologia.]
 
 ---
----
+
+<br>
+
+# 🪪 User Stories:
+As user stories foram definidas com base em três tipos de usuários: Alunos da UFCA, Contratantes e Usuários Globais (cadastrados ou não cadastrados).
+
+Ao todo foram descritas 17 user stories, identificadas dos IDs e separadas com base nos tipos de usuários a que se destinam.
+
+Além disso foram utilizadas sessões de planning poker para definir as estimativas, bem como alinhar os critérios de aceitação e qualquer alteração necessária.
+
+## [Ver lista completa](./UserStories.md)
