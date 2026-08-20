@@ -159,3 +159,19 @@ Ao todo foram descritas 17 user stories, identificadas dos IDs e separadas com b
 Além disso foram utilizadas sessões de planning poker para definir as estimativas, bem como alinhar os critérios de aceitação e qualquer alteração necessária.
 
 ## [Ver lista completa](./UserStories.md)
+
+# 📝 Protótipos 
+Com o objetivo de expressar algumas das funcionalidades dejesadas através de esbolços de telas e funcionalidades, criamos protótipos de baixa, média e alta fidelidade.
+
+## Protótipos de baixa fidelidade
+Utilizando lápis e papel, buscamos expressar as funcionalidades básicas do sistema, o estilo compreendido e comportamentos esperados:
+
+<center> Visualização das funcionalidades do site para computadores
+  <p align="center">
+  <img src="Prototipos/Prototipos_de_baixa _fidelidade/Prototipo_de_baixa_fidelidade-DESKTOP.png" width="500" alt="Protótipo de baixa fidelidade do site para computadores">
+  </p>
+
+<center> Visualização das funcionalidades do site para dispositvos móveis
+  <p align="center">
+  <img src="Prototipos/Prototipos_de_baixa _fidelidade/Prototipo_de_baixa_fidelidade-MOBILE.png" width="500" alt="Protótipo de baixa fidelidade do site para dispositivos móveis">
+  </p>
