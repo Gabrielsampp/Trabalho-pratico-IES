@@ -138,41 +138,18 @@ Possui facilidade para aprender novas ferramentas digitais e valoriza soluções
 ## 🚀 Persona 3 — Aluno Empregado que Deseja Melhorar a Carreira
 
 <p align="center">
-  <img src=".png" width="220" alt="Foto da persona Aluno Empregado">
+  <img src="Personas/persona_aluno_empregado_.png" width="220" alt="Foto da persona Aluno Empregado">
 </p>
+
+[Ver persona completa](Personas/persona-lucas.md)
 
 ### Informações da Persona
 
-**Nome fictício:**  
-> [Nome da persona]
+O Lucas Almeida tem 21 anos, é estudante de Engenharia de Software e trabalha como Desenvolvedor Júnior. Ele busca crescer na área de tecnologia, encontrar novas oportunidades e desenvolver suas habilidades.
 
-**Idade:**  
-> [Idade]
+Pensando nas dificuldades que ele enfrenta para encontrar vagas e conciliar a faculdade com o trabalho, o UFCA CONECTA pode ajudá-lo de várias formas, reunindo vagas, estágios, bolsas e projetos em um só lugar, facilitando sua busca por oportunidades. Ele também pode criar um perfil completo, destacando suas habilidades e experiências, além de encontrar vagas compatíveis com seu curso e perfil.
 
-**Ocupação/Profissão:**  
-> [Ocupação ou profissão da persona]
-
-### 🎯 Objetivos
-- [Objetivo 1]
-- [Objetivo 2]
-- [Objetivo 3]
-
-### ⚠️ Dificuldades
-- [Dificuldade 1]
-- [Dificuldade 2]
-- [Dificuldade 3]
-
-### 💡 Necessidades
-- [Necessidade 1]
-- [Necessidade 2]
-- [Necessidade 3]
-
-### 💻 Familiaridade com Tecnologia
-> [Descreva o nível de familiaridade da persona com tecnologia.]
-
----
-
-<br>
+Dessa forma, o UFCA CONECTA ajuda o Lucas a encontrar oportunidades, aumentar sua visibilidade e continuar crescendo profissionalmente.
 
 # 🪪 User Stories:
 As user stories foram definidas com base em três tipos de usuários: Alunos da UFCA, Contratantes e Usuários Globais (cadastrados ou não cadastrados).
