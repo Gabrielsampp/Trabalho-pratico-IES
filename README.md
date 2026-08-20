@@ -138,7 +138,7 @@ Possui facilidade para aprender novas ferramentas digitais e valoriza soluções
 ## 🚀 Persona 3 — Aluno Empregado que Deseja Melhorar a Carreira
 
 <p align="center">
-  <img src="Personas/persona_aluno_empregado_.png" width="220" alt="Foto da persona Aluno Empregado">
+  <img src="Personas/Persona_aluno_empregado.png" width="400" alt="Foto da persona Aluno Empregado">
 </p>
 
 [Ver persona completa](Personas/persona-lucas.md)
