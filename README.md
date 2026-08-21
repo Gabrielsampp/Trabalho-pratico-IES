@@ -175,3 +175,26 @@ Utilizando lápis e papel, buscamos expressar as funcionalidades básicas do sis
   <p align="center">
   <img src="Prototipos/Prototipos_de_baixa _fidelidade/Prototipo_de_baixa_fidelidade-MOBILE.png" width="500" alt="Protótipo de baixa fidelidade do site para dispositivos móveis">
   </p>
+
+## Protótipos de média fidelidade
+A partir dos protótipos de baixa fidelidade, desenvolvemos uma versão de média fidelidade das principais telas do sistema. Nesta etapa, buscamos representar com mais clareza a estrutura, organização dos elementos e funcionalidades da interface, utilizando componentes visuais mais definidos, porém sem o nível de detalhamento presente no protótipo de alta fidelidade.
+
+<center> Visualização da página inicial
+  <p align="center">
+  <img src="Prototipos\Prototipos_de_media_fidelidade\Area_inicial.png" width="500" alt="Protótipo de média fidelidade da página inicial">
+  </p>
+
+<center> Visualização do dashboard
+  <p align="center">
+  <img src="Prototipos\Prototipos_de_media_fidelidade\Area_dashboard.png" width="500" alt="Protótipo de média fidelidade do dashboard">
+  </p>
+
+<center> Visualização da tela de exploração de vagas
+  <p align="center">
+  <img src="Prototipos\Prototipos_de_media_fidelidade\Area_oportunidades.png" width="500" alt="Protótipo de média fidelidade da tela de exploração de vagas">
+  </p>
+
+<center> Visualização do perfil de uma empresa
+  <p align="center">
+  <img src="Prototipos\Prototipos_de_media_fidelidade\Area_informações.png" width="500" alt="Protótipo de média fidelidade do perfil de uma empresa">
+  </p>
