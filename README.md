@@ -10,11 +10,14 @@
  4. [Requisitos](#-requisitos)
  5. [Protótipos](#-protótipos)
  6. [Planejamento Inicial](#-planejamento-inicial)
- 7. [Principais Dificuldades](#-principais-dificuldades)
- 8. [Principais Aprendizados](#-principais-aprendizados)
+ 7. [Principais Dificuldades](#-dificuldades)
+ 8. [Principais Aprendizados](#-aprendizados)
     
 
 ---
+
+<br>
+<br>
 
 # 📄Descrição
 
@@ -34,6 +37,11 @@ Contexto da Universidade Federal do Cariri - UFCA.
 Alavancar a imagem da UFCA no mercado, ao mesmo tempo em que ampara o aumento das possibilidades de emprego para alunos da instituição. Através de uma plataforma que conecta empresas com vagas abertas a futuros profissionais engajados.
 
 ---
+
+<br>
+<br>
+
+
 # 👥Personas
 
 
@@ -86,89 +94,129 @@ Dessa forma, o UFCA CONECTA ajuda o Lucas a encontrar oportunidades, aumentar su
 [Ver persona completa](Personas/persona-lucas.md)
 ---
 
+<br>
+<br>
+
 # 🪪 User Stories:
 As user stories foram definidas com base em três tipos de usuários: Alunos da UFCA, Contratantes e Usuários Globais (cadastrados ou não cadastrados).
 
-Ao todo foram descritas 17 user stories, identificadas dos IDs e separadas com base nos tipos de usuários a que se destinam.
+Ao todo foram descritas 17 user stories, identificadas por IDs e separadas com base nos tipos de usuários a que se destinam.
 
-Além disso foram utilizadas sessões de planning poker para definir as estimativas, bem como alinhar os critérios de aceitação e qualquer alteração necessária.
+As estimativas foram definidas com base em uma sessão de planning poker e por meio de um formulário. De modo a alinhar os critérios de aceitação e qualquer alteração necessária.
+
+[Formulário utilizado](https://docs.google.com/forms/d/e/1FAIpQLSdG2qx5aPH7qxmjxXmrDERhD1TrQjGiFwLx_l5inMXzoJXcoA/viewform?usp=sharing&ouid=114074658964758429196)
 
 ## [Ver lista completa](./UserStories.md)
+
+<br>
+<br>
 
 # 📋 Requisitos
 Os requisitos foram feitos tendo como base as user stories, foi formatado como uma lista que indica o ID único de cada um, juntamente com o seu conteúdo, prioridade e user storie que tem foi usada como base para o desenvolvimento dele.
 Nesse arquivo se encontram 80 Requisitos, sendo 66 requisitos funcionais e 14 requisitos não funcionais.
 
-[Ver todos os requisitos](./Requisitos)
+## [Ver todos os requisitos](./Requisitos.md)
+
+<br>
+<br>
 
 # 📝 Protótipos 
 Com o objetivo de expressar algumas das funcionalidades dejesadas através de esbolços de telas e funcionalidades, criamos protótipos de baixa, média e alta fidelidade.
 
-## Protótipos de baixa fidelidade
+## 🖍️ Protótipos de baixa fidelidade
 Utilizando lápis e papel, buscamos expressar as funcionalidades básicas do sistema, o estilo compreendido e comportamentos esperados:
 
-<center> Visualização das funcionalidades do site para computadores
+<center> Visualização das funcionalidades do site para computadores </center>
   <p align="center">
   <img src="Prototipos/Prototipos_de_baixa _fidelidade/Prototipo_de_baixa_fidelidade-DESKTOP.png" width="500" alt="Protótipo de baixa fidelidade do site para computadores">
   </p>
 
-<center> Visualização das funcionalidades do site para dispositvos móveis
+<center> Visualização das funcionalidades do site para dispositvos móveis </center>
   <p align="center">
   <img src="Prototipos/Prototipos_de_baixa _fidelidade/Prototipo_de_baixa_fidelidade-MOBILE.png" width="500" alt="Protótipo de baixa fidelidade do site para dispositivos móveis">
   </p>
 
-=======
-## Protótipos de média fidelidade
+---
+
+<br>
+
+## 🌐 Protótipos de média fidelidade
 A partir dos protótipos de baixa fidelidade, desenvolvemos uma versão de média fidelidade das principais telas do sistema. Nesta etapa, buscamos representar com mais clareza a estrutura, organização dos elementos e funcionalidades da interface, utilizando componentes visuais mais definidos, porém sem o nível de detalhamento presente no protótipo de alta fidelidade.
 
-<center> Visualização da página inicial
+<center> Visualização da página inicial </center>
   <p align="center">
   <img src="Prototipos\Prototipos_de_media_fidelidade\Area_inicial.png" width="500" alt="Protótipo de média fidelidade da página inicial">
   </p>
 
-<center> Visualização do dashboard
+<center> Visualização do dashboard </center>
   <p align="center">
   <img src="Prototipos\Prototipos_de_media_fidelidade\Area_dashboard.png" width="500" alt="Protótipo de média fidelidade do dashboard">
   </p>
 
-<center> Visualização da tela de exploração de vagas
+<center> Visualização da tela de exploração de vagas </center>
   <p align="center">
   <img src="Prototipos\Prototipos_de_media_fidelidade\Area_oportunidades.png" width="500" alt="Protótipo de média fidelidade da tela de exploração de vagas">
   </p>
 
-<center> Visualização do perfil de uma empresa
+<center> Visualização do perfil de uma empresa </center>
   <p align="center">
   <img src="Prototipos\Prototipos_de_media_fidelidade\Area_informações.png" width="500" alt="Protótipo de média fidelidade do perfil de uma empresa">
   </p>
 
+<br>
 
-# Planejamento inicial:
+## 💻 Protótipo de alta fidelidade:
 
-Para garantir a organização e o acompanhamento do desenvolvimento, o projeto foi estruturado utilizando metodologias ágeis (Scrum) gerenciadas por meio do Jira.
+Desenvolvido por meio da ferramenta figma. Sua concepção se deu através de buscas por modelos pela internet, além da uma série de **refatorações** que permitiu chegar a uma versão final atrativa e que retrata tanto a versão **mobile** quanto a **desktop**.
 
-Criação e Organização do Backlog:
-A partir dos 80 requisitos (funcionais e não funcionais) e das 17 User Stories mapeadas, foi estruturado o Product Backlog no Jira. Todas as histórias foram priorizadas conforme o valor entregue para os usuários (alunos e recrutadores) e estimadas utilizando Planning Poker.
+### [Link do protótipo](https://www.figma.com/design/UEBaKKF6TPxSgNZYOLJzDR/UFCA-CONECTA---BACKUP?node-id=0-1&p=f&t=T8wyh0LirpHef59c-0)
 
-Início da Sprint 1 (Sprint de Validação):
-Com o backlog definido, iniciamos a Sprint 1 focada prioritariamente na validação da concepção inicial e da arquitetura do sistema. O objetivo principal desta iteração não foi apenas codificar, mas sim validar a proposta de valor e a viabilidade dos fluxos desenhados através das seguintes entregas:
+---
 
-Validação de Interface (UX/UI): Teste do fluxo do usuário e navegação utilizando os protótipos de baixa e média fidelidade com potenciais usuários (alunos da UFCA e parceiros de RH).
+<br>
+<br>
 
-Alinhamento do Backlog e Escopo: Refinamento das User Stories com maior impacto inicial (como cadastro de perfil e listagem de vagas).
+# 💭 Planejamento inicial:
 
-Definição da Arquitetura e Ambiente: Configuração do ambiente de desenvolvimento, definição de tecnologias e validação da estrutura do banco de dados inicial.
+Para garantir a **organização** e o **acompanhamento do desenvolvimento**, o projeto foi estruturado utilizando metodologias ágeis (Scrum) gerenciadas por meio do Jira.
 
-Link do Projeto no Jira:
-[Acompanhamento da Board e Sprint no Jira]
-(https://teamtrabalhoufca.atlassian.net/jira/software/projects/SCRUM/boards/1?sprintStarted=true&filter=&groupBy=none)
+### 🔵 Criação e Organização do Backlog:
 
+A partir dos 80 requisitos (funcionais e não funcionais) e das 17 User Stories mapeadas, foi estruturado o **Product Backlog no Jira**. Todas as histórias foram priorizadas conforme o valor entregue para os usuários (alunos e recrutadores) e estimadas utilizando **Planning Poker**.
+
+### 🟢 Início da Sprint 1 — Validação:
+
+Com o backlog definido, iniciamos a Sprint 1 focada prioritariamente na **validação** da concepção inicial e da arquitetura do sistema. O objetivo principal desta iteração não foi apenas codificar, mas sim validar a proposta de valor e a viabilidade dos fluxos desenhados através das seguintes entregas:
+
+- **Validação de Interface (UX/UI):** Teste do fluxo do usuário e navegação utilizando os protótipos de baixa e média fidelidade com potenciais usuários (alunos da UFCA e parceiros de RH).
+
+- **Alinhamento do Backlog e Escopo:** Refinamento das User Stories com maior impacto inicial (como cadastro de perfil e listagem de vagas).
+
+- **Definição da Arquitetura e Ambiente:** Configuração do ambiente de desenvolvimento, definição de tecnologias e validação da estrutura do banco de dados inicial.
+
+
+### [Link do Projeto no Jira](https://teamtrabalhoufca.atlassian.net/jira/software/projects/SCRUM/boards/1?sprintStarted=true&filter=&groupBy=none)
+
+---
+
+<br>
+<br>
 
 # 🚧 Dificuldades
 
-Durante o desenvolvimento do projeto, uma das principais dificuldades que encontramos foi a gestão do tempo e a organização do grupo. Tivemos um período relativamente curto para desenvolver todas as etapas do trabalho, enquanto, ao mesmo tempo, estávamos envolvidos em várias outras atividades e trabalhos de diferentes disciplinas.
+Durante o desenvolvimento do projeto, uma das principais dificuldades que encontramos foi a **gestão do tempo** e a **organização do grupo**. Tivemos um período relativamente curto para desenvolver todas as etapas do trabalho, enquanto, ao mesmo tempo, estávamos envolvidos em várias outras atividades e trabalhos de diferentes disciplinas.
 
-Além disso, tivemos dificuldades para conciliar os horários de todos os integrantes, o que acabou tornando mais complicado marcar reuniões e manter uma comunicação constante entre o grupo. Em alguns momentos, também não conseguimos organizar as tarefas da melhor forma, o que fez com que algumas atividades acabassem ficando acumuladas ou fossem realizadas com pouco tempo disponível.
+Além disso, tivemos dificuldades para **conciliar os horários** de todos os integrantes, o que acabou tornando mais complicado marcar reuniões e manter uma comunicação constante entre o grupo. Em alguns momentos, também não conseguimos organizar as tarefas da melhor forma, o que fez com que algumas atividades acabassem ficando acumuladas ou fossem realizadas com pouco tempo disponível.
+
+---
+
+<br>
+<br>
 
 # 📚 Aprendizados
 
-Durante o desenvolvimento do projeto, aprendemos principalmente a importância da organização, do planejamento e da comunicação dentro de uma equipe. Percebemos que, mesmo com pouco tempo e várias atividades acontecendo ao mesmo tempo, é essencial dividir bem as responsabilidades e manter todos alinhados. Também aprendemos a nos adaptar aos imprevistos e a trabalhar em conjunto para encontrar soluções e cumprir os prazos. Essas experiências contribuíram para melhorar nossa forma de trabalhar em equipe e nos preparar melhor para futuros projetos.
+Durante o desenvolvimento do projeto, aprendemos principalmente a **importância da organização**, do **planejamento** e da **comunicação** dentro de uma equipe. 
+
+Percebemos que, mesmo com pouco tempo e várias atividades acontecendo ao mesmo tempo, é essencial **dividir bem as responsabilidades** e manter todos alinhados. 
+
+Também aprendemos a nos **adaptar aos imprevistos** e a trabalhar em conjunto para encontrar soluções e cumprir os prazos. Essas experiências contribuíram para melhorar nossa forma de trabalhar em equipe e nos preparar melhor para futuros projetos.
