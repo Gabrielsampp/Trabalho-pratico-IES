@@ -12,6 +12,7 @@
  6. [Planejamento Inicial](#-planejamento-inicial)
  7. [Principais Dificuldades](#-principais-dificuldades)
  8. [Principais Aprendizados](#-principais-aprendizados)
+    
 
 ---
 
@@ -36,7 +37,7 @@ Alavancar a imagem da UFCA no mercado, ao mesmo tempo em que ampara o aumento da
 # 👥Personas
 
 
-## 💼 Persona 1: Contratante 
+## 💼 Persona 1 — Contratante 
 
 <p align="center">
   <img src="Personas/persona_contratante.png" width="400" alt="Foto da persona Aluno Desempregado">
@@ -94,7 +95,7 @@ Além disso foram utilizadas sessões de planning poker para definir as estimati
 
 ## [Ver lista completa](./UserStories.md)
 
-# Requisitos
+# 📋 Requisitos
 Os requisitos foram feitos tendo como base as user stories, foi formatado como uma lista que indica o ID único de cada um, juntamente com o seu conteúdo, prioridade e user storie que tem foi usada como base para o desenvolvimento dele.
 Nesse arquivo se encontram 80 Requisitos, sendo 66 requisitos funcionais e 14 requisitos não funcionais.
 
@@ -139,6 +140,28 @@ A partir dos protótipos de baixa fidelidade, desenvolvemos uma versão de médi
   <p align="center">
   <img src="Prototipos\Prototipos_de_media_fidelidade\Area_informações.png" width="500" alt="Protótipo de média fidelidade do perfil de uma empresa">
   </p>
+
+
+# Planejamento inicial:
+
+Para garantir a organização e o acompanhamento do desenvolvimento, o projeto foi estruturado utilizando metodologias ágeis (Scrum) gerenciadas por meio do Jira.
+
+Criação e Organização do Backlog:
+A partir dos 80 requisitos (funcionais e não funcionais) e das 17 User Stories mapeadas, foi estruturado o Product Backlog no Jira. Todas as histórias foram priorizadas conforme o valor entregue para os usuários (alunos e recrutadores) e estimadas utilizando Planning Poker.
+
+Início da Sprint 1 (Sprint de Validação):
+Com o backlog definido, iniciamos a Sprint 1 focada prioritariamente na validação da concepção inicial e da arquitetura do sistema. O objetivo principal desta iteração não foi apenas codificar, mas sim validar a proposta de valor e a viabilidade dos fluxos desenhados através das seguintes entregas:
+
+Validação de Interface (UX/UI): Teste do fluxo do usuário e navegação utilizando os protótipos de baixa e média fidelidade com potenciais usuários (alunos da UFCA e parceiros de RH).
+
+Alinhamento do Backlog e Escopo: Refinamento das User Stories com maior impacto inicial (como cadastro de perfil e listagem de vagas).
+
+Definição da Arquitetura e Ambiente: Configuração do ambiente de desenvolvimento, definição de tecnologias e validação da estrutura do banco de dados inicial.
+
+Link do Projeto no Jira:
+[Acompanhamento da Board e Sprint no Jira]
+(https://teamtrabalhoufca.atlassian.net/jira/software/projects/SCRUM/boards/1?sprintStarted=true&filter=&groupBy=none)
+
 
 # 🚧 Dificuldades
 
