@@ -139,6 +139,7 @@ A partir dos protótipos de baixa fidelidade, desenvolvemos uma versão de médi
   <p align="center">
   <img src="Prototipos\Prototipos_de_media_fidelidade\Area_informações.png" width="500" alt="Protótipo de média fidelidade do perfil de uma empresa">
   </p>
+
 # 🚧 Dificuldades
 
 Durante o desenvolvimento do projeto, uma das principais dificuldades que encontramos foi a gestão do tempo e a organização do grupo. Tivemos um período relativamente curto para desenvolver todas as etapas do trabalho, enquanto, ao mesmo tempo, estávamos envolvidos em várias outras atividades e trabalhos de diferentes disciplinas.
