@@ -101,39 +101,14 @@ Possui facilidade para aprender novas ferramentas digitais e valoriza soluções
 ## 🎓 Persona 1 — Aluno Desempregado
 
 <p align="center">
-  <img src=".png" width="220" alt="Foto da persona Contratante">
+  <img src="persona_Aluno_Desempregado.png" width="220" alt="Foto da persona Contratante">
 </p>
 
-### Informações da Persona
+## 👤 Persona: Mariana Alves
 
-**Nome fictício:**  
-> [Nome da persona]
+Estudante universitária, 21 anos, cursando Engenharia de Software na UFCA (Juazeiro do Norte – CE). Está em busca de sua primeira oportunidade profissional, mas enfrenta dificuldades como pouco tempo disponível, vagas espalhadas em várias plataformas e falta de experiência para se destacar nos processos seletivos.
 
-**Idade:**  
-> [Idade]
-
-**Ocupação/Profissão:**  
-> [Ocupação ou profissão da persona]
-
-### 🎯 Objetivos
-- [Objetivo 1]
-- [Objetivo 2]
-- [Objetivo 3]
-
-### ⚠️ Dificuldades
-- [Dificuldade 1]
-- [Dificuldade 2]
-- [Dificuldade 3]
-
-### 💡 Necessidades
-- [Necessidade 1]
-- [Necessidade 2]
-- [Necessidade 3]
-
-### 💻 Familiaridade com Tecnologia
-> [Descreva o nível de familiaridade da persona com tecnologia.]
-
----
+O sistema atende diretamente às suas necessidades: centraliza oportunidades compatíveis com seu perfil, mantém seu currículo/perfil sempre atualizado, envia notificações relevantes e permite acompanhar sua evolução profissional em um único lugar.
 
 ## 🚀 Persona 3 — Aluno Empregado que Deseja Melhorar a Carreira
 
