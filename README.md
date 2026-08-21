@@ -94,6 +94,12 @@ Além disso foram utilizadas sessões de planning poker para definir as estimati
 
 ## [Ver lista completa](./UserStories.md)
 
+# Requisitos
+Os requisitos foram feitos tendo como base as user stories, foi formatado como uma lista que indica o ID único de cada um, juntamente com o seu conteúdo, prioridade e user storie que tem foi usada como base para o desenvolvimento dele.
+Nesse arquivo se encontram 80 Requisitos, sendo 66 requisitos funcionais e 14 requisitos não funcionais.
+
+[Ver todos os requisitos](./Requisitos)
+
 # 📝 Protótipos 
 Com o objetivo de expressar algumas das funcionalidades dejesadas através de esbolços de telas e funcionalidades, criamos protótipos de baixa, média e alta fidelidade.
 
