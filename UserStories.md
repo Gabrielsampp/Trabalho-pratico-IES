@@ -13,7 +13,7 @@ Agrupadas conforme o tipo de usuário a que estão direcionadas. Além de que to
 Como aluno da UFCA, quero cadastrar-me no sistema para criar um perfil e acessar os recursos da plataforma.
 ```
 
- - **Estimativa:** 5
+ - **Estimativa:** 8
  - **Prioridade:** 🟡 Média
  - **Critérios de aceitação:**
     - _Tratamento/validação das informações digitadas pelo usuário._
@@ -70,8 +70,8 @@ Como aluno da UFCA cadastrado no sistema, quero acessar uma página de dashboard
 ```
 Como aluno da UFCA cadastrado no sistema, quero salvar perfis de outros alunos, para colaborar com a visualização do perfil de ambos.
 ```
- - **Estimativa:** 
- - **Prioridade:** 
+ - **Estimativa:** 3
+ - **Prioridade:** 🟢 Baixa
  - **Critérios de aceitação:**
     - _Ao salvar um perfil, a ação deve ser imediatamente registrada no banco de dados._
     - _O status da ação (sucesso ou falha) deve ser informado por notificações flutuantes, mediante uso da biblioteca react toastify-js._
@@ -82,7 +82,7 @@ Como aluno da UFCA cadastrado no sistema, quero salvar perfis de outros alunos, 
 ```
 Como aluno da UFCA cadastrado no sistema, quero salvar perfis de contratantes, para receber notificações quando essas empresas disponibilizarem vagas ou atualizarem seus perfis.
 ```
- - **Estimativa:** 
+ - **Estimativa:** 3
  - **Prioridade:** 🟢 Baixa
  - **Critérios de aceitação:**
     - _Ao salvar um perfil, a ação deve ser imediatamente registrada no banco de dados._
@@ -94,7 +94,7 @@ Como aluno da UFCA cadastrado no sistema, quero salvar perfis de contratantes, p
 ```
 Como aluno da UFCA cadastrado no sistema, quero salvar perfis de vagas, para facilitar o acesso e receber notificações sobre status ou atualizações.
 ```
- - **Estimativa:**
+ - **Estimativa:** 3
  - **Prioridade:** 🟢 Baixa
  - **Critérios de aceitação:**
     - _Ao salvar uma vaga, a ação deve ser imediatamente registrada no banco de dados._
@@ -115,7 +115,7 @@ Uma empresa ou instituição, pública ou privada
 ```
 Como contratante (uma empresa ou instituição, pública ou privada), quero cadastrar-me no sistema para criar um perfil e acessar os recursos da plataforma.
 ```
- - **Estimativa:**
+ - **Estimativa:** 8
  - **Prioridade:** 🟡 Média
  - **Critérios de aceitação:**
     - _Tratamento/validação das informações digitadas pelo usuário._
@@ -132,7 +132,7 @@ Como contratante (uma empresa ou instituição, pública ou privada), quero cada
 ```
 Como contratante (uma empresa ou instituição, pública ou privada) cadastrado no sistema, quero autenticar-me utilizando e-mail e senha para acessar e gerenciar meus dados na plataforma.
 ```
- - **Estimativa:**
+ - **Estimativa:** 5
  - **Prioridade:** 🟡 Média
  - **Critérios de aceitação:**
     - _Adaptabilidade aos tamanhos de tela para dispositivos mobile, desktop e tablet._
@@ -144,7 +144,7 @@ Como contratante (uma empresa ou instituição, pública ou privada) cadastrado 
 ```
 Como contratante (uma empresa ou instituição, pública ou privada) cadastrado no sistema, quero atualizar meu perfil profissional para exibi-lo na plataforma de maneira condizente com meus dados e status atual.
 ```
- - **Estimativa:**
+ - **Estimativa:** 5
  - **Prioridade:** 🟡 Média
  - **Critérios de aceitação:**
     - _Não permitir que o usuário remova dados obrigatórios._
@@ -160,7 +160,7 @@ Como contratante (uma empresa ou instituição, pública ou privada) cadastrado 
 ```
 Como contratante (uma empresa ou instituição, pública ou privada) ou aluno da UFCA cadastrado no sistema, quero acessar uma página de pesquisa de vagas para encontrar vagas com base em filtros específicos.
 ```
- - **Estimativa:**
+ - **Estimativa:** 5
  - **Prioridade:** 🔴 Alta
  - **Critérios de aceitação:**
     - _Adaptabilidade aos tamanhos de tela para dispositivos mobile, desktop e tablet._
@@ -172,7 +172,7 @@ Como contratante (uma empresa ou instituição, pública ou privada) ou aluno da
 ```
 Como contratante (uma empresa ou instituição, pública ou privada) ou aluno da UFCA cadastrado no sistema, quero acessar uma página de visualização de vaga para consultar informações de uma vaga específica.
 ```
- - **Estimativa:**
+ - **Estimativa:** 3
  - **Prioridade:** 🔴 Alta
  - **Critérios de aceitação:**
     - _Adaptabilidade aos tamanhos de tela para dispositivos mobile, desktop e tablet._
@@ -188,7 +188,7 @@ Como contratante (uma empresa ou instituição, pública ou privada) ou aluno da
 ```
 Como usuário (cadastrado ou não), quero acessar uma página home para encontrar informações sobre a plataforma, links rápidos e ter um primeiro contato com o sistema.
 ```
- - **Estimativa:**
+ - **Estimativa:** 8
  - **Prioridade:** 🔴 Alta
  - **Critérios de aceitação:**
     - _Adaptabilidade aos tamanhos de tela para dispositivos mobile, desktop e tablet._
@@ -204,7 +204,7 @@ Como usuário (cadastrado ou não), quero acessar uma página home para encontra
 ```
 Como usuário (cadastrado ou não), quero acessar uma página de pesquisa de perfis para consultar perfis profissionais de alunos com base em filtros específicos.
 ```
- - **Estimativa:**
+ - **Estimativa:** 5
  - **Prioridade:** 🔴 Alta
  - **Critérios de aceitação:**
     - _Adaptabilidade aos tamanhos de tela para dispositivos mobile, desktop e tablet._
@@ -217,7 +217,7 @@ Como usuário (cadastrado ou não), quero acessar uma página de pesquisa de per
 ```
 Como usuário (cadastrado ou não), quero acessar uma página de pesquisa de contratantes para consultar perfis profissionais de empresas com base em filtros específicos.
 ```
- - **Estimativa:**
+ - **Estimativa:** 5
  - **Prioridade:** 🔴 Alta
  - **Critérios de aceitação:**
     - _Adaptabilidade aos tamanhos de tela para dispositivos mobile, desktop e tablet._
@@ -230,7 +230,7 @@ Como usuário (cadastrado ou não), quero acessar uma página de pesquisa de con
 ```
 Como usuário (cadastrado ou não), quero acessar uma página de visualização de perfil para visualizar de modo mais abrangente as informações do perfil profissional de um aluno específico.
 ```
- - **Estimativa:**
+ - **Estimativa:** 3
  - **Prioridade:** 🟡 Média/Alta
  - **Critérios de aceitação:**
     - _Adaptabilidade aos tamanhos de tela para dispositivos mobile, desktop e tablet._
@@ -241,7 +241,7 @@ Como usuário (cadastrado ou não), quero acessar uma página de visualização 
 ```
 Como usuário (cadastrado ou não), quero acessar uma página de visualização de contratante para consultar informações específicas sobre uma empresa cadastrada no sistema.
 ```
- - **Estimativa:**
+ - **Estimativa:** 3
  - **Prioridade:** 🟡 Média/Alta
  - **Critérios de aceitação:**
     - _Adaptabilidade aos tamanhos de tela para dispositivos mobile, desktop e tablet._
