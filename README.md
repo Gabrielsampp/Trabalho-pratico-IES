@@ -176,6 +176,7 @@ Utilizando lápis e papel, buscamos expressar as funcionalidades básicas do sis
   <img src="Prototipos/Prototipos_de_baixa _fidelidade/Prototipo_de_baixa_fidelidade-MOBILE.png" width="500" alt="Protótipo de baixa fidelidade do site para dispositivos móveis">
   </p>
 
+=======
 ## Protótipos de média fidelidade
 A partir dos protótipos de baixa fidelidade, desenvolvemos uma versão de média fidelidade das principais telas do sistema. Nesta etapa, buscamos representar com mais clareza a estrutura, organização dos elementos e funcionalidades da interface, utilizando componentes visuais mais definidos, porém sem o nível de detalhamento presente no protótipo de alta fidelidade.
 
@@ -198,3 +199,13 @@ A partir dos protótipos de baixa fidelidade, desenvolvemos uma versão de médi
   <p align="center">
   <img src="Prototipos\Prototipos_de_media_fidelidade\Area_informações.png" width="500" alt="Protótipo de média fidelidade do perfil de uma empresa">
   </p>
+
+# 🚧 Dificuldades
+
+Durante o desenvolvimento do projeto, uma das principais dificuldades que encontramos foi a gestão do tempo e a organização do grupo. Tivemos um período relativamente curto para desenvolver todas as etapas do trabalho, enquanto, ao mesmo tempo, estávamos envolvidos em várias outras atividades e trabalhos de diferentes disciplinas.
+
+Além disso, tivemos dificuldades para conciliar os horários de todos os integrantes, o que acabou tornando mais complicado marcar reuniões e manter uma comunicação constante entre o grupo. Em alguns momentos, também não conseguimos organizar as tarefas da melhor forma, o que fez com que algumas atividades acabassem ficando acumuladas ou fossem realizadas com pouco tempo disponível.
+
+# 📚 Aprendizados
+
+Durante o desenvolvimento do projeto, aprendemos principalmente a importância da organização, do planejamento e da comunicação dentro de uma equipe. Percebemos que, mesmo com pouco tempo e várias atividades acontecendo ao mesmo tempo, é essencial dividir bem as responsabilidades e manter todos alinhados. Também aprendemos a nos adaptar aos imprevistos e a trabalhar em conjunto para encontrar soluções e cumprir os prazos. Essas experiências contribuíram para melhorar nossa forma de trabalhar em equipe e nos preparar melhor para futuros projetos.
