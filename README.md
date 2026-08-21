@@ -36,10 +36,10 @@ Alavancar a imagem da UFCA no mercado, ao mesmo tempo em que ampara o aumento da
 # 👥Personas
 
 
-## 💼 Contratante 
+## 💼 Persona 1: Contratante 
 
 <p align="center">
-  <img src="Personas/persona_contratante.png" width="500" alt="Foto da persona Aluno Desempregado">
+  <img src="Personas/persona_contratante.png" width="400" alt="Foto da persona Aluno Desempregado">
 </p>
 
 ### Informações da Persona
@@ -53,25 +53,26 @@ Dessa forma, o **UFCA CONECTA** ajuda o Ricardo a otimizar o recrutamento, reduz
 [Ver persona completa](Personas/persona-Ricardo.md)
 ---
 
-## 🎓 Persona 1 — Aluno Desempregado
+## 🎓 Persona 2 — Aluno Desempregado
 
 <p align="center">
-  <img src="persona_Aluno_Desempregado.png" width="220" alt="Foto da persona Contratante">
+  <img src="Personas/persona_Aluno_Desempregado.png" width="400" alt="Foto da persona Contratante">
 </p>
 
-## 👤 Persona: Mariana Alves
+### Informações da Persona Mariana Alves
 
 Estudante universitária, 21 anos, cursando Engenharia de Software na UFCA (Juazeiro do Norte – CE). Está em busca de sua primeira oportunidade profissional, mas enfrenta dificuldades como pouco tempo disponível, vagas espalhadas em várias plataformas e falta de experiência para se destacar nos processos seletivos.
 
 O sistema atende diretamente às suas necessidades: centraliza oportunidades compatíveis com seu perfil, mantém seu currículo/perfil sempre atualizado, envia notificações relevantes e permite acompanhar sua evolução profissional em um único lugar.
+
+[Ver persona completa](Personas/persona_Mariana.md)
+---
 
 ## 🚀 Persona 3 — Aluno Empregado que Deseja Melhorar a Carreira
 
 <p align="center">
   <img src="Personas/Persona_aluno_empregado.png" width="400" alt="Foto da persona Aluno Empregado">
 </p>
-
-[Ver persona completa](Personas/persona-lucas.md)
 
 ### Informações da Persona
 
@@ -80,6 +81,9 @@ O Lucas Almeida tem 21 anos, é estudante de Engenharia de Software e trabalha c
 Pensando nas dificuldades que ele enfrenta para encontrar vagas e conciliar a faculdade com o trabalho, o UFCA CONECTA pode ajudá-lo de várias formas, reunindo vagas, estágios, bolsas e projetos em um só lugar, facilitando sua busca por oportunidades. Ele também pode criar um perfil completo, destacando suas habilidades e experiências, além de encontrar vagas compatíveis com seu curso e perfil.
 
 Dessa forma, o UFCA CONECTA ajuda o Lucas a encontrar oportunidades, aumentar sua visibilidade e continuar crescendo profissionalmente.
+
+[Ver persona completa](Personas/persona-lucas.md)
+---
 
 # 🪪 User Stories:
 As user stories foram definidas com base em três tipos de usuários: Alunos da UFCA, Contratantes e Usuários Globais (cadastrados ou não cadastrados).
@@ -135,7 +139,6 @@ A partir dos protótipos de baixa fidelidade, desenvolvemos uma versão de médi
   <p align="center">
   <img src="Prototipos\Prototipos_de_media_fidelidade\Area_informações.png" width="500" alt="Protótipo de média fidelidade do perfil de uma empresa">
   </p>
-
 # 🚧 Dificuldades
 
 Durante o desenvolvimento do projeto, uma das principais dificuldades que encontramos foi a gestão do tempo e a organização do grupo. Tivemos um período relativamente curto para desenvolver todas as etapas do trabalho, enquanto, ao mesmo tempo, estávamos envolvidos em várias outras atividades e trabalhos de diferentes disciplinas.
